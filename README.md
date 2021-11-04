@@ -3,6 +3,13 @@
 <p align="center">
     <img align="center" alt="PNG" src="https://cdn-longterm.mee6.xyz/plugins/welcome/images/806395087177121792/52f7f4f1ba6c2543a193f00d650b0c5c855b1715bd1fcafdb460636ab57b2518.gif" />
 </p> 
+<h2>A brief note about me </h2>
+<h3>Currently, I am a developer</h3>
+<h3>Date of birth: 01/30/2007</h3>
+<h3>I'm studying at Nguyen Hue second school</h3>
+<h3>Home town: Binh Thuan</h3>
+<h3>I living in Ho Chi Minh City</h3>
+<h3>Fluent in language: Vietnamese, English</h3>
 
 # 📖 Top Langs
 

@@ -6,9 +6,9 @@
 <h2>My personal information</h2>
 <h3>Currently, I am a developer</h3>
 <h3>Date of birth: 01/30/2007</h3>
-<h3>I'm studying at Nguyen Hue second school</h3>
 <h3>Home town: Binh Thuan</h3>
 <h3>I living in Ho Chi Minh City</h3>
+<h3>I'm studying at Nguyen Hue second school</h3>
 <h3>Fluent in language: Vietnamese, English</h3>
 
 # 📖 Top Langs

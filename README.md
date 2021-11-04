@@ -1,7 +1,7 @@
-<h1> Xin chào, mình là 🍁tnhan🍂 <img src="https://cdnlongterm.mee6.xyz/plugins/welcome/images/806395087177121792/52f7f4f1ba6c2543a193f00d650b0c5c855b1715bd1fcafdb460636ab57b2518.gif" width="25"></h1> 
+<h1> Xin chào, mình là 🍁tnhan🍂 <img src="https://cdn-longterm.mee6.xyz/plugins/welcome/images/806395087177121792/52f7f4f1ba6c2543a193f00d650b0c5c855b1715bd1fcafdb460636ab57b2518.gif" width="25"></h1> 
 
 <p align="center">
-    <img align="center" alt="PNG" src="https://cdnlongterm.mee6.xyz/plugins/welcome/images/806395087177121792/52f7f4f1ba6c2543a193f00d650b0c5c855b1715bd1fcafdb460636ab57b2518.gif" />
+    <img align="center" alt="PNG" src="https://cdn-longterm.mee6.xyz/plugins/welcome/images/806395087177121792/52f7f4f1ba6c2543a193f00d650b0c5c855b1715bd1fcafdb460636ab57b2518.gif" />
 </p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsakeel&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsakeel" /> </p>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=J-JRT&column=8&theme=gruvbox&no-frame=true"/></a> 

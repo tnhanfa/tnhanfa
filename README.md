@@ -29,5 +29,7 @@ href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercont
 &nbsp; <a href="https://www.facebook.com/PQP.SG" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
 &nbsp; <a href="mailto:contact@thiennhan.comm" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
 </p>
+&nbsp; <a href="https://discord.gg/a8fR4dEz4P" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/discord.png"  width="100" /></a>
+</p>
 
 

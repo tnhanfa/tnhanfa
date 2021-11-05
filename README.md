@@ -12,7 +12,7 @@
 <h3>Fluent in language: Vietnamese, English</h3>
 
 # Visit My Website
-https://thiennhanit.bike
+<a href="https://thiennhanit.bike/" target="_blank" title="Click để vào Webstie tigobiz.com">Click Here</a>
 
 # 📖 Top Langs
 

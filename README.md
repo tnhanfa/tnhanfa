@@ -4,6 +4,9 @@ Tớ tên là Nguyễn Thiện Nhân hay còn được gọi là Nhưn ._.
 
 <p align="center">
 </p>
+
+<p align="center">
+</p>
 <p align="center">
     <img align="center" alt="GIF" src="https://i.redd.it/hzaufj70z0v21.gif" />
 </p> 

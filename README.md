@@ -1,31 +1,35 @@
-<h1> Hello, my name is Nhan 🍁</h1> 
+<h1> Xin chào <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1> 
+Tớ tên là Nguyễn Thiện Nhân hay còn được gọi là Nhưn ._.
 
 <p align="center">
-    <img align="center" alt="PNG" src="https://cdn-longterm.mee6.xyz/plugins/welcome/images/806395087177121792/52f7f4f1ba6c2543a193f00d650b0c5c855b1715bd1fcafdb460636ab57b2518.gif" />
+	<a href="https://github.com/d-jukie/Jukie_Dinjoz"><img alt="commits" src="https://img.shields.io/github/commit-activity/m/D-Jukie/jukie_uwu.svg?label=commit&style=flat-square"></a>
+    	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=D-Jukie">
+</p>
+<p align="center">
+    <img align="center" alt="GIF" src="https://i.redd.it/hzaufj70z0v21.gif" />
 </p> 
-<h2>My personal information</h2>
-<h3>Currently, I am a developer</h3>
-<h3>Date of birth: 01/30/2007</h3>
-<h3>Home town: Binh Thuan</h3>
-<h3>I living in Ho Chi Minh City</h3>
-<h3>I'm studying at Nguyen Hue second school</h3>
-<h3>Fluent in language: Vietnamese, English</h3>
 
-# Visit My Website
-<a href="https://thiennhanit.bike/" target="_blank" title="Click để vào Webstie tigobiz.com">Click Here</a>
+**Giới thiệu**
 
-# 📖 Top Langs
+- ⚡ Tôi tên là **Nguyễn Thiện Nhân**
+- ⚡ Học sinh **THCS**
+- ⚡ Date of birth : **30/01/2007**
+- ⚡ Chiều cao : **1m79**
+- ⚡ Tính cách : **Hòa đồng, vui vẻ:3**
+- ⚡ Quê quán: **Bình Thuận**
+- ⚡ Nơi ở hiện tại:  **Thành phố Hồ Chí Minh**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-JRT&text_color=daf7dc&bg_color=151515)
-# 🤝🏻 Connect with Me
-<p align="center">
-  
-&nbsp; <a href="https://www.instagram.com/_tnhannn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a>    
-&nbsp; <a href="https://github.com/tnhann" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
-&nbsp; <a href="https://www.facebook.com/tnhan.SG" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
-&nbsp; <a href="mailto:contact@thiennhan.comm" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
-</p>
-&nbsp; <a href="https://discord.gg/a8fR4dEz4P" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/discord.png"  width="100" /></a>
-</p>
+**Sở thích**
 
+- ⚡ Thích nghe nhạc 
+- ⚡ Thích chơi game
+- ⚡ Thích phá code, tò mò những điều thú vị
 
+**Thông tin liên lạc**
+
+- ⚡ Faceebok : **[Nguyễn Thiện Nhân](https://www.facebook.com/tnhan.BT)**
+- ⚡ Instagram : **[Nguyễn Thiện Nhân](https://www.instagram.com/_tnhannn)**
+- ⚡ Gmail : **[contact@thiennhan.com](https://gmail.com)**
+- ⚡ Github : **[tnhann](https://github.com/tnhann)**
+- ⚡ Zalo: **[Nguyễn Thiện Nhân](0763347482)**
+- ----------------------------------------⚡**tnhann**----------

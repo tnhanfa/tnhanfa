@@ -2,10 +2,6 @@
 Tớ tên là Nguyễn Thiện Nhân hay còn được gọi là Nhưn ._.
 
 <p align="center">
-	<a href="https://github.com/d-jukie/Jukie_Dinjoz"><img alt="commits" src="https://img.shields.io/github/commit-activity/m/D-Jukie/jukie_uwu.svg?label=commit&style=flat-square"></a>
-    	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=D-Jukie">
-</p>
-<p align="center">
     <img align="center" alt="GIF" src="https://i.redd.it/hzaufj70z0v21.gif" />
 </p> 
 

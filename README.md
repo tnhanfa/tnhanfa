@@ -1,6 +1,9 @@
 <h1> Xin chào <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1> 
 Tớ tên là Nguyễn Thiện Nhân hay còn được gọi là Nhưn ._.
 
+
+<p align="center">
+</p>
 <p align="center">
     <img align="center" alt="GIF" src="https://i.redd.it/hzaufj70z0v21.gif" />
 </p> 

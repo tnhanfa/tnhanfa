@@ -33,5 +33,5 @@ Tớ tên là Nguyễn Thiện Nhân hay còn được gọi là Nhưn ._.
 - ⚡ Instagram : **[Nguyễn Thiện Nhân](https://www.instagram.com/_tnhannn)**
 - ⚡ Gmail : **[contact@thiennhan.com](https://gmail.com)**
 - ⚡ Github : **[tnhann](https://github.com/tnhann)**
-- ⚡ Zalo: **[Nguyễn Thiện Nhân](0763347482)**
+- ⚡ Zalo: **[Nguyễn Thiện Nhân](https://zalo.me/0763347482)**
 - ----------------------------------------⚡**tnhann**----------

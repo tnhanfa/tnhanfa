@@ -29,8 +29,10 @@ Tớ tên là Nguyễn Thiện Nhân hay còn được gọi là Nhưn ._.
 
 **Thông tin liên lạc**
 
-- ⚡ Faceebok : **[Nguyễn Thiện Nhân](https://www.facebook.com/tnhan.BT)**
+- ⚡ Facebook : **[Nguyễn Thiện Nhân](https://www.facebook.com/tnhan.BT)**
 - ⚡ Instagram : **[Nguyễn Thiện Nhân](https://www.instagram.com/_tnhannn)**
+- ⚡ Telegram : **[Nguyễn Thiện Nhân](https://t.me/tnhanBT)**
+- ⚡ Discord Sever : **[Nguyễn Thiện Nhân](https://discord.gg/a8fR4dEz4P)**
 - ⚡ Gmail : **[contact@thiennhan.com](https://gmail.com)**
 - ⚡ Github : **[tnhann](https://github.com/tnhann)**
 - ⚡ Zalo: **[Nguyễn Thiện Nhân](https://zalo.me/0763347482)**

@@ -1,5 +1,5 @@
 <h1> Xin chào <img src="https://api.thiennhanit.bike/file/hi.gif" width="25"></h1> 
-Tớ tên là Nguyễn Thiện Nhân hay còn được gọi là Nhưn ._.
+Tớ tên là Nguyễn Thiện Nhân hay còn được gọi là tnhan ._.
 
 
 <p align="center">
@@ -25,15 +25,11 @@ Tớ tên là Nguyễn Thiện Nhân hay còn được gọi là Nhưn ._.
 
 - ⚡ Thích nghe nhạc 
 - ⚡ Thích chơi game
-- ⚡ Thích phá code, tò mò những điều thú vị
 
 **Thông tin liên lạc**
 
 - ⚡ Facebook : **[Nguyễn Thiện Nhân](https://www.facebook.com/tnhantl)**
 - ⚡ Instagram : **[Nguyễn Thiện Nhân](https://www.instagram.com/tnhantl)**
 - ⚡ Telegram : **[Nguyễn Thiện Nhân](https://t.me/tnhanBT)**
-- ⚡ Discord Sever : **[Dis.XYZ](https://discord.gg/a8fR4dEz4P)**
 - ⚡ Gmail : **[contact@tnhann.tk](https://gmail.com)**
 - ⚡ Github : **[tnhann](https://github.com/tnhantl)**
-- ⚡ Zalo: **[Nguyễn Thiện Nhân](https://zalo.me/0763347482)**
-- -------------⚡**tnhann**---------------

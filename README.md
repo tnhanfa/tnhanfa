@@ -14,10 +14,7 @@ Tớ tên là Nguyễn Thiện Nhân hay còn được gọi là tnhan ._.
 **Giới thiệu**
 
 - ⚡ Tôi tên là **Nguyễn Thiện Nhân**
-- ⚡ Học tại trường **THCS Nguyễn Huệ Q12**
 - ⚡ Date of birth : **30/01/2007**
-- ⚡ Chiều cao : **1m79**
-- ⚡ Tính cách : **Hòa đồng, vui vẻ:3**
 - ⚡ Quê quán: **Bình Thuận**
 - ⚡ Nơi ở hiện tại:  **Thành phố Hồ Chí Minh**
 
@@ -30,6 +27,5 @@ Tớ tên là Nguyễn Thiện Nhân hay còn được gọi là tnhan ._.
 
 - ⚡ Facebook : **[Nguyễn Thiện Nhân](https://www.facebook.com/tnhantl)**
 - ⚡ Instagram : **[Nguyễn Thiện Nhân](https://www.instagram.com/tnhantl)**
-- ⚡ Telegram : **[Nguyễn Thiện Nhân](https://t.me/tnhanBT)**
-- ⚡ Gmail : **[contact@tnhann.tk](https://gmail.com)**
-- ⚡ Github : **[tnhann](https://github.com/tnhantl)**
+- ⚡ Telegram : **[Nguyễn Thiện Nhân](https://t.me/tnhantl)**
+- ⚡ Email : **[contact@thiennhan.studio](mailto:contact@thiennhan.studio)**

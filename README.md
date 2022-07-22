@@ -40,6 +40,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/tnhantl/" target="_blank"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://img.icons8.com/dusk/64/000000/facebook-new--v2.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/tnhantl" target="_blank"><img alt="Telegram" src="https://img.icons8.com/doodle/48/000000/telegram.png" alt="twitter" height="32" width="32" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="weixin://dl/chat?tnhantl" target="_blank"><img alt="Wechat" title="Wechat" height="32" width="32" src="https://img.icons8.com/dusk/64/000000/weixing.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/795928853281374248" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://img.icons8.com/dusk/64/000000/discord-logo.png"></a>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

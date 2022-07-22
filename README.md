@@ -19,7 +19,7 @@
 
 - 📫 Reach me - [**Facebook**](https://www.facebook.com/tnhantl) or [**Email**](mailto:contact@thiennhan.studio) 
 
-- 📝 My Website - [Blog](https://thiennhan.me)
+- 📝 My Website - [thiennhan.me](https://thiennhan.me)
 
 
 

@@ -1,7 +1,7 @@
 <h1 align="center">I'm Nhân</h1>
 
 
-<h3 align="center">professional procrastinator & programmer
+<h3 align="center">My Information
 </h3>
 <div align="center"><img alt= "owo"src = "https://spotify-github-profile.vercel.app/api/view.svg?uid=l83mpqzw744gwyey26zb5aohj&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=true"></div>
 

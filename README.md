@@ -3,7 +3,7 @@
 
 <h3 align="center">Some Of My Personal Information
 </h3>
-<div align="center"><img alt= "owo"src = "https://spotify-github-profile.vercel.app/api/view.svg?uid=l83mpqzw744gwyey26zb5aohj&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=true"></div>
+<div align="center"><img alt= "owo"src = "https://spotify-github-profile.vercel.app/api/view?uid=l83mpqzw744gwyey26zb5aohj&cover_image=true&theme=novatorem&bar_color=00ff1e&bar_color_cover=false"></div>
 
 
 

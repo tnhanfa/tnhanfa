@@ -19,7 +19,6 @@
 
 - 📫 Reach me - [**Facebook**](https://www.facebook.com/tnhantl) or [**Email**](mailto:contact@thiennhan.studio) 
 
-- 📝 My Website - [thiennhan.me](https://thiennhan.me)
 
 
 

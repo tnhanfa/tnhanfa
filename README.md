@@ -17,7 +17,6 @@
 
 - 💬 Interests - **Read stories and listen to music**
 
-- 📫 Reach me - [**Facebook**](https://www.facebook.com/tnhantl) or [**Email**](mailto:contact@thiennhan.studio) 
 
 
 

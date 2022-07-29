@@ -8,7 +8,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tnhansg&style=for-the-badge" alt="tnhansg" /> </p> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tnhansg&color=blue" alt="tnhansg" /> </p> </p>
 
 
 - ✨ My name is - **Nguyen Thien Nhan**

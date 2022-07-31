@@ -1,4 +1,4 @@
-<h1 align="center">I'm Nhân</h1>
+<h1 align="center">I'm Nhan</h1>
 
 
 <h3 align="center">Some Of My Personal Information

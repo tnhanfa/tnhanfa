@@ -1,5 +1,8 @@
-<h1 align="center">I'm Nhan</h1>
-
+<h1 align="center">
+  <a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;My+name+is+Nhan...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <h3 align="center">Some Of My Personal Information
 </h3>

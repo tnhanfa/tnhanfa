@@ -6,8 +6,7 @@
 
 <h3 align="center">My Personal Information
 </h3>
-<div align="center"><img alt= "owo"src ="https://lanyard-profile-readme.vercel.app/api/795928853281374248?theme=dark&bg=36454f&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=In%20the%20gleaming%20dawn,%20we'll%20wake%20up"></div>
-<div align="center"><img alt= "owo"src = "https://spotify-github-profile.vercel.app/api/view?uid=316ck37srmyl2jznj5sncdwxj4ie&cover_image=true&theme=novatorem&bar_color=00ff1e&bar_color_cover=false"></div>
+<div align="center"><img alt= "owo"src ="https://lanyard-profile-readme.vercel.app/api/795928853281374248?theme=dark&bg=#000000&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=In%20the%20gleaming%20dawn,%20we'll%20wake%20up"></div>
 
 
 
